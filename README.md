@@ -22,7 +22,7 @@
   Licensed with the MIT License
 
   ## Deployed
-  N/A
+  
   Repository: https://github.com/westonkostura/Challenge-Wk9-ReadMe-Generator/
 
   

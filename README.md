@@ -2,6 +2,12 @@
 
   ## [Description]
   the readme generator is a user-friendly application for creating ReadMe files for projects. The purpose of this application is so the user can fill in the prompts, and recieve a formatted README file ready to go. Creating the README file generator consisted of using Node and Inquirer, to ask for prompts and create readme.md file.
+
+   ## [Table of Contents]
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
   
   ## [Installation]
   No steps to install project, npm packages

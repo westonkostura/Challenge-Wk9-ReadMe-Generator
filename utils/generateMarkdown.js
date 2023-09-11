@@ -82,15 +82,19 @@ function generateMarkdown(data) {
 
   ## [Description]
   ${data.description}
+  
   ## [Installation]
   ${data.installation}
+
   ## [Usage]
   ${data.usage}
+
   ## [Credits]
   ${data.contributions}
+
   ## [License]
   ${data.license}
- 
+
   ## [Deployed]
   ${data.deployed}
 
